@@ -1,14 +1,14 @@
-# Hello, I'm Vibhanshu Shrivastava! 👋
+# Hello, I'm Vibhanshu Shrivastava!
 
 ## My resume : 
 
-I'm a passionate Full-Stack Developer 🚀 with a keen interest in Competitive Programming 🏆 and a focus on building robust MERN (MongoDB, Express.js, React.js, Node.js) applications 💻. I thrive on solving complex problems and creating efficient, scalable solutions.
+I'm a passionate Full-Stack Developer with a keen interest in  Data Structure and Algorithm and Competitive Programming Also focusing on building robust MERN (MongoDB, Express.js, React.js, Node.js) applications 💻. I thrive on solving complex problems and creating efficient, scalable solutions.
 
 ## What I Do:
 
-- 💻 Develop full-stack web applications using MERN stack technologies.
-- ⌨️ Participate in competitive programming challenges on platforms like LeetCode , GeeksforGeeks and  Codeforces.
-- 🛠️ Continuously learn and explore new technologies to stay updated with industry trends.
+- Develop full-stack web applications using MERN stack technologies.
+- Participate in competitive programming challenges on platforms like LeetCode , GeeksforGeeks and  Codeforces.
+- Continuously learn and explore new technologies to stay updated with industry trends.
 
 ## Skills:
 - Programming Language : C++ , C  , javascript
