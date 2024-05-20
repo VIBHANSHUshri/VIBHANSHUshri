@@ -20,7 +20,7 @@ I'm a passionate Full-Stack Developer with a keen interest in  Data Structure an
 ## Let's Connect:
 
 - 📧 Email: vibhanshu123khare@gmail.com
-- 🌐 LinkedIn:[(https://www.linkedin.com/in/vibhanshu-shrivastava-158108241/)]
+- 🌐 LinkedIn: https://www.linkedin.com/in/vibhanshu-shrivastava-158108241/
 
 Feel free to explore my GitHub repositories and reach out for collaboration opportunities or just to say hi! 😊
 
