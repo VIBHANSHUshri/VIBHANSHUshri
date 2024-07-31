@@ -1,8 +1,8 @@
 # Hello, I'm Vibhanshu Shrivastava!
 
-[My Resume](https://drive.google.com/file/d/16z6u0gc0ZiqDLsY4JWm8mD1J1iMXjji_/view?usp=drive_link)
+## [My Resume](https://drive.google.com/file/d/16z6u0gc0ZiqDLsY4JWm8mD1J1iMXjji_/view?usp=drive_link)
 
-## Portfolio : https://vibhanshuportfolio.vercel.app/
+## [Portfolio](https://vibhanshuportfolio.vercel.app/)
 
 I'm a passionate Full-Stack Developer with a keen interest in  Data Structure and Algorithm and Competitive Programming Also focusing on building robust MERN (MongoDB, Express.js, React.js, Node.js) applications 💻. I thrive on solving complex problems and creating efficient, scalable solutions.
 
