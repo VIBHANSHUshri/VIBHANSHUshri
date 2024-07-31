@@ -2,7 +2,7 @@
 
 ## My resume : 
 
-## Portfolio : (https://vibhanshuportfolio.vercel.app/)
+## Portfolio : https://vibhanshuportfolio.vercel.app/
 
 I'm a passionate Full-Stack Developer with a keen interest in  Data Structure and Algorithm and Competitive Programming Also focusing on building robust MERN (MongoDB, Express.js, React.js, Node.js) applications 💻. I thrive on solving complex problems and creating efficient, scalable solutions.
 
