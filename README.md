@@ -1,6 +1,6 @@
 # Hello, I'm Vibhanshu Shrivastava!
 
-## My resume : 
+[My Resume on Google Drive][(https://drive.google.com/file/d/16z6u0gc0ZiqDLsY4JWm8mD1J1iMXjji_/view?usp=drive_link)]
 
 ## Portfolio : https://vibhanshuportfolio.vercel.app/
 
