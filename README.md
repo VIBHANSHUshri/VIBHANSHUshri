@@ -9,7 +9,7 @@ I'm a passionate Full-Stack Developer with a keen interest in  Data Structure an
 ## What I Do:
 
 - Develop full-stack web applications using MERN stack technologies.
-- Participate in competitive programming challenges on platforms like LeetCode , GeeksforGeeks and  Codeforces.
+- Participate in competitive programming challenges on platforms like LeetCode , GeeksforGeeks , Codeforces , Coding Ninja , CodeChef.
 - Continuously learn and explore new technologies to stay updated with industry trends.
 
 ## Skills:
